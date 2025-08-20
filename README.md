@@ -30,13 +30,19 @@ A **2D platformer game inspired by Super Mario**, built with:
    ```
 
 2. Install dependencies:
+
+   ```bash
    npm install
+   ```
 
 3. Start development server:
+
+```bash
    npm run dev
+```
 
 4. Open in your browser:
-   http://localhost:5173
+   http://localhost
 
 ## You can also install and run the game on your Android device.
 
@@ -45,7 +51,10 @@ A **2D platformer game inspired by Super Mario**, built with:
 2. Connect your phone via USB and enable developer mode.
 
 3. Run the following commands:
+
+```bash
    npx cap sync
    npx cap open android
+```
 
 4. In Android Studio, build and run the app on your device.
